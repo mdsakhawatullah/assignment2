@@ -12,8 +12,12 @@ body{
     padding-left:10px;
 }
 .nav-style{
-    margin-left: 240px;
+    margin-left: 280px;
     font-size: 20px;
+}
+.name0{
+    font-weight: bold;
+    color: black;
 }
 .name{
     color: rgb(31, 136, 92);
@@ -22,6 +26,10 @@ body{
 .name1{
     color: rgba(39, 39, 194, 0.938);
     font-size: 40px;
+    font-weight: bold;
+}
+.name2{
+    color: rgba(9, 9, 102, 0.527);
     font-weight: bold;
 }
 .heading{
@@ -70,4 +78,10 @@ body{
 }
 .banner-img img{
     width:100%
+}
+.shop-image{
+    margin: auto;
+    border: 10px solid grey 30px;
+    border-radius: 30px;
+    
 }
