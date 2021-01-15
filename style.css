@@ -5,8 +5,31 @@ body{
 }
 .logo-image img{
     width: 80%;
-    margin-left: 20px;
+    margin-left: 40px;
     padding: 5px;
+}
+.nav-sec{
+    padding-left:10px;
+}
+.nav-style{
+    margin-left: 240px;
+    font-size: 20px;
+}
+.name{
+    color: rgb(31, 136, 92);
+
+}
+.name1{
+    color: rgba(39, 39, 194, 0.938);
+    font-size: 40px;
+    font-weight: bold;
+}
+.heading{
+    margin-left: 20px;
+}
+.cost{
+    font-weight: bold;
+    color: lightcoral;
 }
 .margin-nav{
     margin-left: 150px;
@@ -44,6 +67,6 @@ body{
     height: 50%;
     
 }
-.col-md-6 img{
+.banner-img img{
     width:100%
 }
