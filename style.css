@@ -29,6 +29,7 @@ body{
 }
 .cost{
     font-weight: bold;
+    font-size: 35px;
     color: lightcoral;
 }
 .margin-nav{
